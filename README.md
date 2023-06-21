@@ -15,9 +15,3 @@ php artisan migrate
 E depois pode rodar o comando: 
 php artisan serve
 ```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
